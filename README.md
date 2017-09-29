@@ -29,6 +29,6 @@ Contoh :
 
 Penjelasan :
 
-5P11A = Kelas 5P11A
-25092017 = Tanggal Pertemuan
-Latihan1 = Nama Project
+- 5P11A = Kelas 5P11A
+- 25092017 = Tanggal Pertemuan
+- Latihan1 = Nama Project
